@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Leo Barroso",
+        "CPF": "00000014141",
+        "email": "leo@gmail.com",
+        "whatsapp": "85999999999",
+        "adress": {
+            "postalcode": "60416200",
+            "street": "Rua Professor Costa Mendes",
+            "number": "306",
+            "details": "Entrada 426",
+            "district": "Bom Futuro",
+            "city_state": "Fortaleza/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }, 
+    "cpf_inv": {
+        "name": "Leo Barroso",
+        "CPF": "00000014141A",
+        "email": "leo@gmail.com",
+        "whatsapp": "85999999999",
+        "adress": {
+            "postalcode": "60416200",
+            "street": "Rua Professor Costa Mendes",
+            "number": "306",
+            "details": "Entrada 426",
+            "district": "Bom Futuro",
+            "city_state": "Fortaleza/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Leo Barroso",
+        "CPF": "00000014141",
+        "email": "leogmail.com",
+        "whatsapp": "85999999999",
+        "adress": {
+            "postalcode": "60416200",
+            "street": "Rua Professor Costa Mendes",
+            "number": "306",
+            "details": "Entrada 426",
+            "district": "Bom Futuro",
+            "city_state": "Fortaleza/CE"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
